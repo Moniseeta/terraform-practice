@@ -1,0 +1,2 @@
+This is Terraform Training  By RPS  Terraform Rocks 
+JPMC Customized Training for Terraform for 15 days  true   in vars file
